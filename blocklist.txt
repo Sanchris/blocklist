@@ -1,4 +1,2 @@
 facebook.com
-*.facebook.com
 youtube.com
-*.youtube.com
