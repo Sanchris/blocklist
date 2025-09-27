@@ -1,2 +1,6 @@
-0.0.0.0 facebook.com
-0.0.0.0 youtube.com
+facebook.com
+*.facebook.com
+youtube.com
+*.youtube.com
+tiktok.com
+*.tiktok.com
