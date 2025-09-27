@@ -1,5 +1,4 @@
 facebook.com
-gateway.facebook.com
 *.facebook.com
 youtube.com
 *.youtube.com
